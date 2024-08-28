@@ -1,5 +1,4 @@
 package com.example.myapplication;
-
 // Import necessary Android and third-party libraries
 import android.content.Intent;
 import android.os.Bundle;
