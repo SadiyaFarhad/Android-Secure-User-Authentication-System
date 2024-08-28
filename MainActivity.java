@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity { // Define MainActivity cla
     protected void onCreate(Bundle savedInstanceState) { // Override onCreate method, called when the activity is created
         super.onCreate(savedInstanceState); // Call superclass's onCreate method to initialize the activity
         setContentView(R.layout.activity_main); // Set the content view to the activity_main layout
-
         Button signUpBtn = findViewById(R.id.signUpBtn); // Find and link the sign-up button from the layout
         Button loginBtn = findViewById(R.id.loginBtn); // Find and link the login button from the layout
 
